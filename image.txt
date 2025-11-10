@@ -1,3 +1,2 @@
-https://raw.githubusercontent.com/riyazclock/amzncalc/refs/heads/main/imagesamzn/amzntoolad2.png(https://dialer.link/call/+919500108997
-),https://raw.githubusercontent.com/riyazclock/amzncalc/refs/heads/main/imagesamzn/amzntoolad1.png(https://dialer.link/call/+919500108997
+https://raw.githubusercontent.com/riyazclock/amzncalc/refs/heads/main/imagesamzn/amzntoolad2.png(tel:+919500108997),https://raw.githubusercontent.com/riyazclock/amzncalc/refs/heads/main/imagesamzn/amzntoolad1.png(https://dialer.link/call/+919500108997
 )
